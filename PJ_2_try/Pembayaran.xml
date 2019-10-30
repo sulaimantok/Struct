@@ -1,0 +1,53 @@
+<Online>
+	<transaksi>
+		<jenis>Pembayaran</jenis>
+		<metode>Dengan Dana</metode>
+		<tanggal>23 September 2019</tanggal>
+		<waktu>19:00</waktu>
+		<harga>85000</harga>
+	</transaksi>
+	<transaksi>
+		<jenis>Cashbask</jenis>
+		<metode>Dana</metode>
+		<tanggal>5 September 2019</tanggal>
+		<waktu>22:00</waktu>
+		<harga>5000</harga>
+	</transaksi>
+	<transaksi>
+		<jenis>Pengembalian</jenis>
+		<metode>Ovo</metode>
+		<tanggal>Ovo</tanggal>
+		<waktu>13:25</waktu>
+		<harga>60000</harga>
+	</transaksi>
+	<transaksi>
+		<jenis>cashback</jenis>
+		<metode>Ovo</metode>
+		<tanggal>Ovo</tanggal>
+		<waktu>13.10</waktu>
+		<harga>50000</harga>
+	</transaksi>
+	<transaksi>
+		<jenis>Pembelian</jenis>
+		<metode>akun Dana</metode>
+		<tanggal>akun Dana</tanggal>
+		<waktu>13.15</waktu>
+		<harga>10000</harga>
+	</transaksi>
+</Online>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

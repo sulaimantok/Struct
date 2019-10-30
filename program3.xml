@@ -1,0 +1,18 @@
+<Thread>
+	<user>
+		<nama>udin</nama>
+		<post>Hello Wolrd</post>
+		<tanggal>11 Septemeber 2019</tanggal>
+		<waktu>19.00</waktu>
+		<retweets>20</retweets>
+		<likes>19</likes>
+	</user>
+	<reply>
+		<nama>udin</nama>
+		<post>First time</post>
+		<tanggal>11 Septemeber 2019</tanggal>
+		<waktu>19.01</waktu>
+		<retweets>11</retweets>
+		<likes>2</likes>
+	</reply>
+</Thread>
